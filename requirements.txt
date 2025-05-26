@@ -1,3 +1,4 @@
+
 altair==5.5.0
 attrs==25.3.0
 blinker==1.9.0
@@ -42,3 +43,7 @@ typing_extensions==4.13.2
 tzdata==2025.2
 urllib3==2.4.0
 watchdog==6.0.0
+streamlit
+matplotlib
+numpy
+
